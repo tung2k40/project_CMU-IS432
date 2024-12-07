@@ -1,452 +1,240 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="gym.css" />
+    <link rel="stylesheet" href="./themify-icons/themify-icons.css" />
+    <title>NDLT FITNESS</title>
+    <link rel="icon" href="ndlt1.jpg" type="image/x-icon" />
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <div class="heading">
+      <img src="anh_team2.jpg" alt=" Logo" />
+      
+        <div class="text-container">
+          <h3>NGŨ ĐẠI LÃO TINH FITNESS CENTER</h3>
+          <h5>Hệ thống phòng tập dịch vụ hàng đầu khu vực miền trung</h5>
+        </div>
+    
+      <div class="menu_list">
+        <a href="#">Phòng tập</a>
+        <a href="#">Dịch vụ</a>
+        <a href="#">Tranfor</a>        <a href="#">Lịch học</a>
+        <a href="#">Tin tức</a>
+        <a href="#">Về chúng tôi</a>
+        <button class="register-button" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSfztlNuouJrhEPanjjp28RiycJvNylkS35WcJ4695nase8emw/viewform?usp=sharing';">ĐĂNG KÝ TẬP THỬ</button>
+      </div>
+    </div>
+    <div class="content_1">
+      <img src="anhgym1.jpg" alt="Anh phong gym" />
+      <div class="content">
+        <h1>TRẢI NGHIỆM TẬP THỬ<br />TẠI PHÒNG TẬP ĐẲNG CẤP</h1>
+        <h4>Không giới hạn câu lạc bộ</h4>
+        <p>
+          Tự do tập luyện tại các Club thuộc hệ thống Ngũ Đại Lão Tinh
+          Fitness,<br />
+          Đà Nẵng chỉ với 1 gói tập duy nhất. Tiện đâu tập đó, thoải mái cho
+          bạn<br />
+          lựa chọn.
+        </p>
+        <h4>Không giới hạn bộ môn tập luyện</h4>
+        <p>
+          Tập luyện đa dạng với +10 bộ môn mà chỉ cần duy nhất một gói tập<br />
+          tại Ngũ Đại Lão Tinh Fitness Đà Nẵng. Giúp bạn vừa đạt được mục
+          tiêu<br />
+          tập luyện nhanh nhất, vừa không nhàm chán trong quá trình tập luyện.
+        </p>
+        <h4>Tận hưởng các dịch vụ cao cấp</h4>
+        <p>
+          Thoải mái sử dụng các tiện ích và trải nghiệm những dịch vụ đẳng<br />
+          cấp: tủ đồ cá nhân, xông hơi ướt, xông hơi khô, hồ bơi ngoài trời…
+        </p>
+      </div>
+    </div>
+    <div class="content_2">
+      <!-- <img src="anhgym_2.jpg" alt="anh phong gym"> -->
+      <h1>
+        ĐẾN VỚI NGŨ ĐẠI LÃO TINH FITNESS ĐÀ NẴNG<br />
+        BẠN CÓ THỂ TẬP LUYỆN BỘ MÔN NÀO?
+      </h1>
+      <p>
+        Tại Ngũ Đại Lão Tinh Fitness Đà Nẵng, học viên thoải mái tham gia những
+        khóa học như: Gym, Schetching, Swimming, các loại hình Yoga<br />
+        hay tham gia tập luyện GroupX với các môn: Sexy Dance, Zumba Dance, Body
+        Fit….
+      </p>
+      <div class="slide">
+        <div class="slide_1">
+          <h1>GROUP X</h1>
+          <p>Đốt cháy năng lượng cùng âm nhạc và nhóm bạn</p>
+        </div>
+        <div class="slide_2">
+          <h1>GYM</h1>
+          <p>Rèn luyện các nhóm cơ, cải thiện sai lệch vóc dáng</p>
+        </div>
+        <div class="slide_3">
+          <h1>YOGA</h1>
+          <p>Thư giản, giải toả stress hiệu quả, tăng sức dẻo dai cơ thể</p>
+        </div>
+        <div class="slide_4">
+          <h1>SWIMMING</h1>
+          <p>Bơi lội giúp tăng chiều cao, vận động cơ toàn diện</p>
+        </div>
+      </div>
+    </div>
+    <div class="content_3">
+      <img src="anhgym9.jpg" alt="Anh gym 3" />
+      <h1>
+        BẠN ĐỒNG HÀNH TRONG HÀNH<br />
+        TRÌNH THAY ĐỔI VÓC DÁNG
+      </h1>
+      <p>
+        Ngũ Đại Lão Tinh Fitness Đà Nẵng sở hữu những phòng tập hiện đại với<br />
+        trang thiết bị được nhập khẩu chính hãng và không gian tập luyện<br />
+        thoáng mát, tiện nghi<br />
+        Tại Ngũ Đại Lão Tinh Fitness Đà Nẵng, học viên được tập luyện cùng<br />
+        những huấn luyện viên vui vẻ, nhiệt tình, có chuyên môn cao nhưng<br />
+        không kém phần nghiêm khắc<br />
+        Ngũ Đại Lão Tinh Fitness Đà Nẵng luôn có những khóa học thích hợp<br />
+        dành cho mọi học viên, NDLTF thường xuyên có những chương trình<br />
+        ngoại khóa, giao lưu giúp học viên có thêm động lực
+      </p>
+    </div>
+    <div class="content_4">
+      <h1>
+        TẬP LUYỆN Ở PHÒNG GYM<br />
+        GẦN NHÀ TẠI ĐÀ NẴNG
+      </h1>
+      <p>
+        Hệ thống phòng gym của Ngũ Đại Lão Tinh FITNESS có mặt ở khắp các quận
+        Đà Nẵng. Với đa dạng hình<br />
+        thức như gym, yoga, group x, kickfit, bơi lội cho bạn. Chọn ngay phòng
+        tập gym gần nhất<br />
+        để tập luyện dễ dàng và hiệu quả.
+      </p>
+      <div id="slide_second">
+        <div id="slide_a">
+          <img src="anhslidegym_1.jpg" alt="" />
+          <p>
+            PHÒNG TẬP<br />
+            QUẬN SƠN TRÀ
+          </p>
+          <a href="https://hdfitness.vn/phong-gym-da-nang/phong-gym-son-tra/"
+            >Tìm hiểu thêm</a
+          >
+        </div>
+        <div id="slide_b">
+          <img src="anhslidegym_5.jpg" alt="" />
+          <p>
+            PHÒNG TẬP<br />
+            QUẬN HẢI CHÂU
+          </p>
+          <a href="https://hdfitness.vn/phong-gym-da-nang/phong-gym-hai-chau/"
+            >Tìm hiểu thêm</a
+          >
+        </div>
+        <div id="slide_c">
+          <img src="anhslidegym_6.jpg" alt="" />
+          <p>
+            PHÒNG TẬP<br />
+            QUẬN THANH KHÊ
+          </p>
+          <a href="https://hdfitness.vn/phong-gym-da-nang/phong-gym-thanh-khe/"
+            >Tìm hiểu thêm</a
+          >
+        </div>
+        <div id="slide_d">
+          <img src="anhslidegym_7.jpg" alt="" />
+          <p>
+            PHÒNG TẬP<br />
+            QUẬN LIÊN CHIỂU
+          </p>
+          <a href="https://hdfitness.vn/phong-gym-da-nang/phong-gym-hoa-khanh/"
+            >Tìm hiểu thêm</a
+          >
+        </div>
+      </div>
+    </div>
+  </body>
+    <footer>
+      <div class="footer-content">
+        
+        <div class="contact-container">
+          <h2>Liên hệ</h2>
+          <div class="contact-item">
+            <i class="fas ti-mobile"></i> <span>0123456789</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas ti-email"></i> <span>thanhtung26042004@gmail.com</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas ti-calendar"></i> <span>5.AM – 9.PM, Thứ 2 – Chủ nhật</span>
+          </div>
+        </div>
+        
+       
+        
+        <div class="services-container">
+          <h2>Dịch vụ</h2>
+          <ul>
+            <li>Huấn luyện viên cá nhân</li>
+            <li>Group X</li>
+            <li>Yoga</li>
+            <li>Swimming</li>
+          </ul>
+        </div>
+        
+        <div class="social-container">
+          <h2>Theo dõi mạng xã hội</h2>
+          <div class="social-icons">
+            <i class="fab ti-facebook"></i>
+            <i class="fab ti-instagram"></i>
+            <i class="fab ti-youtube"></i>
+          </div>
+          <div class="img">
+            <img src="anhgym9.jpg" alt="Anh gym 3" />
+          </div>
+        </div>
+      </div>
 
-}
-body {
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
-}
+    </footer>
+    <div class="reserved">
+        <h3>&copy; 2024 Your Tung Hoang. All rights reserved.</h3>
 
-.content_1, .content_2, .content_3, .content_4 {
-  opacity: 0;
-  transform: translateY(60px); /* Di chuyển xuống nhiều hơn */
-  transition: opacity 1s cubic-bezier(0.25, 0.46, 0.45, 0.94), transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Hiệu ứng chuyển mượt hơn */
-}
+    </div>
+    
 
-/* Khi phần tử xuất hiện trong viewport */
-.visible {
-  opacity: 1;
-  transform: translateY(0); /* Trả về vị trí ban đầu */
-}
+    <!-- <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const elements = document.querySelectorAll(
+          ".content_1, .content_2, .content_3, .content_4"
+        );
+        window.onload = function() {
+            alert("Chào mừng bạn đến với Ngũ Đại Lão Tin Đà Nẵng")
+        };
 
+        const observer = new IntersectionObserver(
+          (entries) => {
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add("visible"); // Thêm class .visible khi xuất hiện
+              } else {
+                entry.target.classList.remove("visible"); // Xóa class .visible khi ra khỏi viewport
+              }
+            });
+          },
+          { threshold: 0.1 }
+        ); // 0.1 nghĩa là phần tử chỉ cần 10% xuất hiện trong viewport là kích hoạt
 
-
-.heading {
-  position: fixed;
-  width: 100%;
-  background-color: black;
-  display: flex;
-  align-items: center;
-  padding: 10px 40px;
-  justify-content: space-between;
-  background-color: black;
-  z-index: 1;
-  padding-bottom: 0;
-}
-
-.heading img {
-  height: 100px;
-  width: 100px;
-  padding-bottom: 10px;
-  border-radius: 50%;
-}
-
-.text-container {
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.heading h3 {
-  color: #fdd835;
-  font-size: 24px;
-  margin-bottom: 5px;
-}
-
-.heading h5 {
-  color: #fdd835;
-  font-size: 14px;
-  padding-left: 50px;
-}
-
-.menu_list {
-  position: relative;
-  display: flex;
-  gap: 20px;
-  align-items: center;
-}
-
-.menu_list a {
-  color: #fdd835;
-  text-decoration: none;
-  font-size: 14px;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-.menu_list a:hover {
-  color: white;
-  background-color: #fdd835;
-  padding: 10px 20px;
-  display: block;
-  border-radius: 5px;
-  color: black;
-}
-
-.menu_list button {
-  height: 50px;
-  width: 200px;
-  border-radius: 4px;
-  background-color: yellow;
-  color: black;
-  font-weight: bolder;
-}
-
-.menu_list button:hover {
-  background-color: black;
-  color: yellow;
-  border-color: #fdd835;
-}
-
-.content_1 {
-  height: 580px;
-  padding: 0;
-  margin: 0;
-  background-color: rgb(244, 242, 241);
-}
-
-.content_1 img {
-  width: 631px;
-  height: 420px;
-  margin-top: 80px;
-  margin-right: 118px;
-  position: relative;
-  left: 800px;
-  top: 50px;
-}
-
-.content_1 .content {
-  position: relative;
-  bottom: 300px;
-  margin-left: 100px;
-  letter-spacing: 1px;
-  font-family: "Montserrat", sans-serif;
-}
-
-.content_1 .content h1 {
-  color: #fdd835;
-  font-weight: bolder;
-  font-size: 36px;
-  padding-right: 100px;
-  padding-top: 0;
-  line-height: 1.3;
-}
-
-.content_1 .content h4 {
-  padding-left: 30px;
-  margin-bottom: -210px;
-  font-weight: bolder;
-  line-height: 1.4;
-}
-
-.content_1 .content p {
-  padding-left: 40px;
-  font-weight: 100;
-  line-height: 1.5;
-  margin-top: 10px;
-}
-
-.content_2 {
-  height: 700px;
-  width: 100%;
-  background-image: url("anhgym_2.jpg");
-  background-size: cover;
-  padding: 0;
-  margin: 0;
-}
-
-.content_2 h1 {
-  text-align: center;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 40px;
-  color: #fdd835;
-  padding-top: 30px;
-}
-
-.content_2 p {
-  text-align: center;
-  font-size: 20px;
-  color: white;
-  padding: 20px;
-}
-
-.slide {
-  display: flex;
-  gap: 20px;
-  padding: 50px;
-  padding-top: 60px;
-  padding-left: 130px;
-  justify-content: center;
-}
-
-.slide div {
-  background-color: #fdd835;
-  background-size: cover;
-  background-position: center;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.slide_1,
-.slide_2,
-.slide_3,
-.slide_4 {
-  height: 400px;
-  width: 300px;
-}
-
-.slide_1 {
-  background-image: url("anhslidegym_1.jpg");
-}
-.slide_1 h1,
-p {
-  padding-top: 200px;
-  font-weight: 800;
-}
-
-.slide_2 {
-  background-image: url("anhslidegym_6.jpg");
-}
-
-.slide_2 h1,
-p {
-  padding-top: 200px;
-  font-weight: 800;
-}
-.slide_3 {
-  background-image: url("anhslidegym_7.jpg");
-}
-
-.slide_3 h1,
-p {
-  padding-top: 200px;
-  font-weight: 800;
-}
-.slide_4 {
-  background-image: url("anhslidegym_4.jpg");
-}
-
-.slide_4 h1,
-p {
-  padding-top: 200px;
-  font-weight: 800;
-}
-.slide_1:hover {
-  transform: scale(1.2);
-  transition: transform 1.2s ease;
-}
-.slide_2:hover {
-  transform: scale(1.2);
-  transition: transform 1.2s ease;
-}
-.slide_3:hover {
-  transform: scale(1.2);
-  transition: transform 1.2s ease;
-}
-.slide_4:hover {
-  transform: scale(1.2);
-  transition: transform 1.2s ease;
-}
-.content_3 {
-  height: 582px;
-  max-width: 100%;
-  background-color: rgb(248, 252, 252);
-}
-.content_3 img {
-  width: 600px;
-  height: 420px;
-  margin-top: 80px;
-  margin-right: 118px;
-  padding-left: 50px;
-  text-align: start;
-}
-.content_3 h1 {
-  position: relative;
-  bottom: 400px;
-  left: 650px;
-  color: #fdd835;
-  font-weight: bold;
-  font-size: 36px;
-  text-align: justify;
-  text-transform: uppercase;
-  font-family: "Montserrat", sans-serif;
-  letter-spacing: 2px;
-}
-.content_3 p {
-  position: relative;
-  left: 680px;
-  bottom: 580px;
-  word-wrap: break-word;
-  font-size: 20px;
-  padding-left: 10px;
-  line-height: 1.5;
-  margin-top: 10px;
-}
-.content_4 {
-  height: 900px;
-  max-width: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: rgb(255, 255, 255);
-}
-.content_4 h1 {
-  text-align: center;
-  color: #fdd835;
-  font-weight: bold;
-  font-size: 36px;
-  padding-top: 100px;
-  font-family: "Montserrat", sans-serif;
-}
-.content_4 p {
-  text-align: center;
-  position: relative;
-  bottom: 130px;
-  font-size: 24px;
-}
-#slide_second {
-  display: flex;
-  gap: 20px;
-  padding-bottom: 0px;
-  justify-content: center;
-}
-#slide_second #slide_a img {
-  height: 225px;
-  width: 340px;
-  border-radius: 5px;
-}
-#slide_second #slide_b img {
-  height: 225px;
-  width: 340px;
-  border-radius: 5px;
-}
-#slide_second #slide_c img {
-  height: 225px;
-  width: 340px;
-  border-radius: 5px;
-}
-#slide_second #slide_d img {
-  height: 225px;
-  width: 340px;
-  border-radius: 5px;
-}
-#slide_second #slide_a p{
-    text-align: center;
-    color: #f4c90a;
-    font-weight: bolder;
-    font-size: 24px;
-    padding-top: 150px;
-    font-family: "Montserrat", sans-serif;
-}
-#slide_second #slide_b p{
-    text-align: center;
-    color: #f4c90a;
-    font-weight: bold;
-    font-size: 24px;
-    font-family: "Montserrat", sans-serif;
-    padding-top: 150px;
-}
-#slide_second #slide_c p{
-    text-align: center;
-    color: #f4c90a;
-    font-weight: bold;
-    font-size: 24px;
-    font-family: "Montserrat", sans-serif;
-    padding-top: 150px;
-}
-#slide_second #slide_d p{
-    text-align: center;
-    color: #f4c90a;
-    font-weight: bold;
-    font-size: 24px;
-    font-family: "Montserrat", sans-serif;
-    padding-top: 150px;
-}
-#slide_second #slide_a a{
-    font-weight: bolder;
-    font-size: 24px;
-    color: black;
-    position: relative;
-    left: 100px;
-    bottom: 110px;
-    text-decoration: none;
-}
-#slide_second #slide_b a{
-    font-weight: bolder;
-    font-size: 24px;
-    color: black;
-    position: relative;
-    left: 100px;
-    bottom: 110px;
-    text-decoration: none;
-}
-#slide_second #slide_c a{
-    font-weight: bolder;
-    font-size: 24px;
-    color: black;
-    position: relative;
-    left: 100px;
-    bottom: 110px;
-    text-decoration: none;
-}
-#slide_second #slide_d a{
-    font-weight: bolder;
-    font-size: 24px;
-    color: black;
-    position: relative;
-    left: 100px;
-    bottom: 110px;
-    text-decoration: none;
-}
-#slide_second #slide_a a:hover{
-    display: inline-block;
-    color: black;
-    background-color: yellow;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 5px 5px;
-    border-radius: 5px;
-    transition:  1s ease;
-}
-#slide_second #slide_b a:hover{
-    display: inline-block;
-    color: black;
-    background-color: yellow;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 5px 5px;
-    border-radius: 5px;
-    transition:  1s ease;
-}
-#slide_second #slide_c a:hover{
-    display: inline-block;
-    color: black;
-    background-color: yellow;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 5px 5px;
-    border-radius: 5px;
-    transition:  1s ease;
-}
-#slide_second #slide_d a:hover{
-    display: inline-block;
-    color: black;
-    background-color: yellow;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 5px 5px; 
-    border-radius: 5px;
-    transition:  1s ease;
-}
-footer{
-  height: 50px;
-  width: 100%;
-  background-color: rgb(203, 152, 41);
-}
-footer h3{
-  text-align: center;
-  position: relative;
-  top: 25%;
-}
+        elements.forEach((element) => {
+          observer.observe(element);
+        });
+      });
+    </script> -->
+    
+ 
+  
+</html>
