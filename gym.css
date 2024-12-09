@@ -60,6 +60,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  position: absolute;
+  left: 13%;
 }
 
 .heading h3 {
